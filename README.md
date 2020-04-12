@@ -6,3 +6,11 @@
 输入  ```git checkout step1 ``` 即可前往
 
 建立了 ```spring boot``` ```spring security```和```index.html```
+
+## step2 添加基础认证登录功能
+
+输入  ```git checkout step2 ``` 即可前往
+
+建立了 ```spring boot``` ```spring security```和```index.html```
+
+遗留问题  <div sec:authorize="!isAuthenticated()">不生效
